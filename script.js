@@ -123,13 +123,13 @@ const music_list = [
     },
     {
         img : 'images/ss.jpg',
-        name : 'main-to-ummati-hoon',
+        name : "Yasin",
         artist : 'Abdull rahman Alsudais',
         music : 'music/Yasin.mp3'
     },
     {
         img : 'images/ss.jpg',
-        name : 'main-to-ummati-hoon',
+        name : 'Surah-Ah-Naziat',
         artist : ' Abdull rahman Alsudais',
         music : 'music/surah naziat.mp3'
     },
